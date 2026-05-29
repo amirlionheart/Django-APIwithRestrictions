@@ -217,5 +217,3 @@ MIT
 [amirlionheart](https://github.com/amirlionheart)
 
 ---
-
-**Последнее обновление**: 2024
